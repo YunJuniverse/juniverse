@@ -7,3 +7,12 @@
     뉴트로, 레트로, 공부, 책, 운동, 일상, 리뷰 등 내가 좋아하는 것을 담는 공간이 되길 바라며...<br/>
     - 2024년 1월 어느날
 </p>
+
+<a href="/books">종이지식</a>
+<a href="/daily">종이지식</a>
+<a href="/dataStudy">데이터 기반 인생</a>
+<a href="/englishStudy">영어로 먹고살기</a>
+<a href="/pictures">추억의 사진</a>
+<a href="/reviews">뭘 먹고 뭘 사는가</a>
+<a href="/videos">영상으로 기록하는</a>
+<a href="/workingOut">움직임, 삶</a>
