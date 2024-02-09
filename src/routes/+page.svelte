@@ -1,3 +1,5 @@
+<a href="/">Home</a>
+
 <h1>공사중...</h1><br/>
 <p>어쩌다보니(다행히도) 저는 더 이상 개발자가 아니게 되었습니다.<br/>
     이직하고 한창 바쁜 시기가 지나 나를 기록해보고 싶은 마음에 다시 VSCODE를 켰습니다.<br/>
@@ -8,11 +10,15 @@
     - 2024년 1월 어느날
 </p>
 
-<a href="/books">종이지식</a>
-<a href="/daily">종이지식</a>
+<a href="/profile">프로필</a>
+<a href="/daily">다이어리</a>
+<a href="/pictures">사진첩</a>
+<a href="/books">책 리뷰</a>
+<a href="/videos">동영상</a>
+<a href="/guestbook">방명록</a>
 <a href="/dataStudy">데이터 기반 인생</a>
 <a href="/englishStudy">영어로 먹고살기</a>
-<a href="/pictures">추억의 사진</a>
 <a href="/reviews">뭘 먹고 뭘 사는가</a>
-<a href="/videos">영상으로 기록하는</a>
 <a href="/workingOut">움직임, 삶</a>
+
+
