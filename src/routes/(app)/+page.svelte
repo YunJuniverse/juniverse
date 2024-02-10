@@ -20,5 +20,6 @@
 <a href="/englishStudy">영어로 먹고살기</a>
 <a href="/reviews">뭘 먹고 뭘 사는가</a>
 <a href="/workingOut">움직임, 삶</a>
+<a href="/login">로그인</a>
 
 
