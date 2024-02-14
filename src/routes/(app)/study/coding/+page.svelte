@@ -5,4 +5,4 @@
 <a href="/study/coding/html">HTML: 프로그래밍 언어가 아닙니다</a>
 <a href="/study/coding/css">CSS: 디자인</a>
 <a href="/study/coding/Javascript">Javascript: 웹을 움직이는 언어</a>
-<a href="/study/coding/Pyhthon">Python: 데이터를 움직이는 언어</a>
+<a href="/study/coding/Python">Python: 데이터를 움직이는 언어</a>
